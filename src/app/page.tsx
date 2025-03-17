@@ -1,0 +1,1 @@
+Okay, I'm ready to receive the project tracker in XML format and then generate the code for `src/app/page.tsx`. Please provide the tracker data.
